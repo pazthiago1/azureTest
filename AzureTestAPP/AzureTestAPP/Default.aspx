@@ -4,12 +4,11 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Teste</title>
+    <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">
-        <div>
-            <h1>Teste de Hospedagem</h1>
+    <form id="form
+        <h1>olá</h1>
         </div>
     </form>
 </body>
